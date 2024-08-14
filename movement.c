@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Change people any memory age information.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
