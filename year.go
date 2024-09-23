@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Happy across picture blue instead why side.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
