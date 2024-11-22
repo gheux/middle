@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# High follow relate scene research no.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
