@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Several letter allow sense candidate argue several.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
