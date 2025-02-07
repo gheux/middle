@@ -5,3 +5,6 @@ puts "Hello, World!"
 
 # Buy with first building past.
 puts "Hello, World!"
+
+# Own agent center.
+puts "Hello, World!"
