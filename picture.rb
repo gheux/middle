@@ -8,3 +8,6 @@ puts "Hello, World!"
 
 # Own agent center.
 puts "Hello, World!"
+
+# Argue a say.
+puts "Hello, World!"
